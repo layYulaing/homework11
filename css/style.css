@@ -1,0 +1,16 @@
+.hero{
+    height: 300px; 
+}
+.container .card{
+    height: 350px;
+}
+.container .card .card-header{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .fa-solid{
+    font-size: 14px;
+    color: gold;
+}
